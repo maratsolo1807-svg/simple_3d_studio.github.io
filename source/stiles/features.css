@@ -1,0 +1,57 @@
+.navbar-brand img{
+width:150px;
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+.navbar-nav .nav-link.active{
+    color: rgb(110, 112, 114);
+}
+.navbar-toggler{
+  background-color: rgb(255, 255, 255);
+}
+.sidebar{
+    background-color: aliceblue;
+    border-style: groove;
+    border-radius: 10px;
+    margin: 5px;
+}
+body{
+
+background-color: rgb(0, 0, 0);
+}
+footer{
+    border-style: groove;
+    border-radius: 5px;
+    margin: 5px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+}
+.myrow p{
+    color: rgb(255, 255, 255);
+}
+.myrow img{
+    width: 50px;
+}
+.col{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 149, 0);
+    
+}
+.col>img{
+    width: 900px;
+}
+
+li{
+    margin-top: 20px;
+}
+.cont{
+   text-align: center;
+}
+.main_container{
+    margin: 50px;
+    
+}
